@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Noto+Sans:ital,wght@0,100;0,400;0,900;1,100;1,400&display=swap');
+*{
+    font-family: 'Crimson Text', serif;
+font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+    background-color: #000000;
+
+}
+
+body{
+    background-color: rgba(209, 207, 207, 0.877);
+}
+.nav .nav-link {
+    color: aliceblue;
+}
+
+.nav .nav-link{
+color: rgba(209, 207, 207, 0.877);
+}
+
+.Logo{
+    width: 15%; /*Cambiar el tamaño de la img*/
+    margin-top: -6%; /* Mueve la imagen de arriba a abajo*/
+    margin-left: -0%; /* Deja un margen de izquierda a derecha*/
+}
